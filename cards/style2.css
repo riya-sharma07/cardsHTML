@@ -1,0 +1,25 @@
+.container{
+    background-color: rgb(198, 128, 198);
+    width: 20rem;
+    margin-top: 3rem;
+    margin-left: 22rem;
+    border: 1px solid black;
+    border-radius: 1.3rem;
+}
+.form{
+    margin-left: 2rem;
+}
+.signUp{
+    margin-left: 1rem;
+}
+.signUp>p{
+    font-size: 1.3rem;
+    color: whitesmoke
+}
+.terms{
+    display: flex;
+    flex-direction: row;
+}
+.submit>button{
+    width: 4rem;
+}
